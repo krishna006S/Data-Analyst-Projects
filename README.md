@@ -1,4 +1,4 @@
-**Project Title:** ***Pizza Shop Sales Analysis & Dashboard***
+<p align="center">**Project Title:** ***Pizza Shop Sales Analysis & Dashboard***</p>
 ![Pizza Sales Dashboard Snap](https://github.com/krishna006S/Data-Analyst-Projects/assets/121119334/38678b2d-b1e8-4991-acb6-4a96e860ff4d)
 
 ***Description:***
