@@ -1,4 +1,5 @@
 **Project Title:** ***Pizza Shop Sales Analysis & Dashboard***
+![Pizza Sales Dashboard Snap](https://github.com/krishna006S/Data-Analyst-Projects/assets/121119334/38678b2d-b1e8-4991-acb6-4a96e860ff4d)
 
 ***Description:***
 Welcome to the "Pizza Shop Sales Analysis & Dashboard" project, where we dive deep into the world of pizza sales data, extracting valuable insights and creating interactive dashboards based on key performance indicators (KPIs) and specific problem statements. This project showcases our data analytics expertise in SQL and Excel, utilizing a range of techniques for data analysis, cleaning, modeling, and visualization.
