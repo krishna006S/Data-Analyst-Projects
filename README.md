@@ -10,6 +10,7 @@ Welcome to the "Pizza Shop Sales Analysis & Dashboard" project, where we dive de
 4. **Average Pizzas Per Order:** Analyze order patterns and portion sizes.
 
 ***Problem Statements:***
+
 5. **Daily Trends for Orders:** Identify order patterns over days.
 6. **Hourly Trends for Orders:** Discover peak ordering hours.
 7. **Percentage of Pizza Sales by Pizza Category:** Understand the popularity of different pizza types.
