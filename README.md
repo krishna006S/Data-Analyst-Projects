@@ -1,6 +1,6 @@
-                  **Project Title:** 
-          #Pizza Shop Sales Analysis & Dashboard
-##Description:
+**Project Title:** ***Pizza Shop Sales Analysis & Dashboard***
+
+**Description:**
 Welcome to the "Pizza Shop Sales Analysis & Dashboard" project, where we dive deep into the world of pizza sales data, extracting valuable insights and creating interactive dashboards based on key performance indicators (KPIs) and specific problem statements. This project showcases our data analytics expertise in SQL and Excel, utilizing a range of techniques for data analysis, cleaning, modeling, and visualization.
 
 ###Key Performance Indicators (KPIs):
